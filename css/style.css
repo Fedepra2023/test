@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    font-family: 'Roboto', sans-serif !important;
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+  }
+
+#homephoto {
+    height: 250px;
+    width: auto;
+}
+
+header {
+    background-color: #4652FF;
+    color: white;
+}
+
+header,section {
+    padding: 5% 5% 0px 5%;
+}
+
+.whitelink {
+    color: white;
+}
+
+.active {
+    background-color: white;
+    color: #4652FF;
+    border-radius:3px 3px 0px 0px
+}
+
+.senzalinea {
+    text-decoration: none;
+    padding: 10px 10px 0px 10px;
+}
